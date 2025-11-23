@@ -1,0 +1,14 @@
+{
+  "name": "react-native-dual-entry",
+  "version": "0.1.0",
+  "description": "React Native Dual Entry System components (class components) built with react-native-paper",
+  "main": "src/index.js",
+  "keywords": ["react-native", "dual-entry", "accounting", "react-native-paper"],
+  "files": ["src"],
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react-native": "^0.60.0",
+    "react-native-paper": "^4.0.0 || ^5.0.0"
+  },
+  "license": "MIT"
+}
